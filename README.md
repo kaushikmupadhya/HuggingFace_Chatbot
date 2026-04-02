@@ -71,3 +71,10 @@ This downloads `llama-2-7b-chat.Q2_K.gguf` from HuggingFace into the current dir
 ## Intended Use
 
 Built for educational and informational support in healthcare contexts. Not a substitute for professional medical advice.
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any changes..
+
+## Contact
+If you have any questions or suggestions, feel free to contact me at [Kaushik Manjunatha](https://www.linkedin.com/in/kaushik-manjunatha/)
+
